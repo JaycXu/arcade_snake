@@ -1,0 +1,26 @@
+html {
+    background-color: aquamarine;
+}
+
+p {
+    text-align: center;
+}
+
+#gameContainer {
+    margin-top: 20x;
+    text-align: center;
+}
+
+#score {
+    font-size: 50px;
+    margin-bottom: 20px;
+}
+
+
+#pauseButton, #startButton, #restartButton{
+    font-size: 25px;
+    margin: 20px;
+    border-radius: 10px;
+    background-color: rgb(211, 157, 147);
+    cursor: pointer;
+}
